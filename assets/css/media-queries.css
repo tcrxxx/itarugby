@@ -79,9 +79,9 @@ only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
 	
-	/* logo 130px 69px*/
+	/* logo 130px 69px
     .top-content .text .logo a {
     	background-image: url(../img/logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 260px 139px !important;
-    }
+    }*/
 	
 }
