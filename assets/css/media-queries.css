@@ -29,7 +29,7 @@
 	.navbar-brand { margin-left: 15px; }
 	.navbar-collapse { border: 0; }
 	.navbar-inverse ul.navbar-nav li a { padding-top: 10px; padding-bottom: 10px; }
-	.navbar-inverse .navbar-toggle { border-color: #444; }
+	.navbar-inverse .navbar-toggle { border-color: white; }
 	
 	.inner-bg { padding: 140px 0; }
 	.top-content .top-big-link { margin-top: 25px; }
@@ -81,7 +81,7 @@ only screen and (                min-resolution: 2dppx) {
 	
 	/* logo 130px 69px*/
     .top-content .text .logo a {
-    	background-image: url(../img/logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 260px 139px !important;
+    	background-image: url(../img/logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 164px 163px !important;
     }
 	
 }
