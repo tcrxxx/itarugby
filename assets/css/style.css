@@ -632,3 +632,24 @@ footer h3 {
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
     width: 100%;
 }
+
+.data-players{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: white;
+    line-height: 22px;
+    font-weight: bold;
+	text-align: center;
+	text-justify: inter-word;    
+}
+
+.modal-body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: #888;
+    line-height: 22px;
+    text-align: justify;
+    text-justify: inter-word;
+}
