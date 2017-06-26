@@ -103,7 +103,7 @@ jQuery(window).load(function() {
 		$('#myModal').modal('show');
  
         $('#myCarousel').carousel({
-                interval: 5000
+                interval: 10000
         });
  
         //Handles the carousel thumbnails
