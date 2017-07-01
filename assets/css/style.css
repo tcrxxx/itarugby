@@ -10,6 +10,15 @@ body {
 
 strong { font-weight: 600; }
 
+.map_link{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+
 a, a:hover, a:focus {
 	color: #ff8a38;
 	font-weight: bold;
