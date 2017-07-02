@@ -80,29 +80,10 @@ jQuery(document).ready(function() {
 	    });
 	});
 	
-});
-
-
-jQuery(window).load(function() {
 	
-	/*
-		Loader
-	*/
-	$(".loader-img").fadeOut();
-	$(".loader").delay(1000).fadeOut("slow");
-	
-	/*
-		Hidden images
-	*/
-	$(".testimonial-image img").attr("style", "width: auto !important; height: auto !important;");
-	
-});
-
-  jQuery(document).ready(function($) {
-	  
-		$('#myModal').modal('show');
- 
-        $('#myCarousel').carousel({
+	$('#myModal').modal('show');
+		
+		$('#myCarousel').carousel({
                 interval: 10000
         });
  
@@ -122,4 +103,24 @@ jQuery(window).load(function() {
                  var id = $('.item.active').data('slide-number');
                 $('#carousel-text').html($('#slide-content-'+id).html());
         });
+	
 });
+
+
+jQuery(window).load(function() {
+	
+	/*
+		Loader
+	*/
+	$(".loader-img").fadeOut();
+	$(".loader").delay(1000).fadeOut("slow");
+	
+	/*
+		Hidden images
+	*/
+	$(".testimonial-image img").attr("style", "width: auto !important; height: auto !important;");
+	
+	
+});
+
+ 

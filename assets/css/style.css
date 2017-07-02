@@ -425,7 +425,7 @@ ul.navbar-nav {
 	color: #ddd;
 }
 
-.portfolio-container .section-bottom-button {
+.portfolio-container .section-bottom-button .gallery-container .photos-gallery-container{
 	padding-top: 40px;
 }
 
@@ -662,3 +662,4 @@ footer h3 {
     text-align: justify;
     text-justify: inter-word;
 }
+
