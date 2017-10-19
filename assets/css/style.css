@@ -1260,6 +1260,17 @@ footer h3 {
   background: #FFD700;
 }
 
+.timeline .timeline-item > .timeline-point.timeline-point-third-place {
+  right: -32px;
+  width: 32px;
+  height: 32px;
+  margin-top: -16px;
+  margin-left: 16px;
+  margin-right: 16px;
+  color: #cd7f32;
+  background: #cd7f32;
+}
+
 .timeline .timeline-item > .timeline-point.timeline-point-danger {
   color: #d25a4b;
   background: #fff;
