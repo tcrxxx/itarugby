@@ -1320,6 +1320,20 @@ footer h3 {
 .timeline .timeline-label .label-danger {
   background-color: #d25a4b;
 }
+
+.wrapper {
+		display: table;
+		margin: auto;
+    }
+    .wrapper ul {
+      text-align: left;
+        
+    }
+    .wrapper li {
+       
+        
+    }
+
 @media (max-width: 768px) {
   .timeline.timeline {
     width: 100%;
@@ -1378,3 +1392,4 @@ footer h3 {
     margin-top: 0;
   }
 }
+
